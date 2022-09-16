@@ -30,6 +30,7 @@ public class Poker {
 			return true;
 		else
 			return false;
+		
 	}
 	
 	public static void main(String args[]) {
